@@ -1,6 +1,6 @@
 ##My solutions for EPFL Functional Programming in Scala class (May, June 2014)
 
-Implemented in Scala
+[Coursera Certificate](https://www.coursera.org/account/accomplishments/records/k2vfd5xfpPufSsB7)
 
 * Week 1: Functions & Evaluations
   - Exercise 1: Pascal’s Triangle
