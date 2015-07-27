@@ -19,7 +19,7 @@
   - Sorting Tweets by Their Influence
   - Detecting influential tweets in a set of recent tweets
   - [More details](https://class.coursera.org/progfun-004/assignment/view?assignment_id=9)
-* Weeks 4 & 5: Types and Pattern Matching []
+* Weeks 4 & 5: Types and Pattern Matching
   - Implementation of Huffman Coding
   - Constructing Huffman Trees
   - Decoding
